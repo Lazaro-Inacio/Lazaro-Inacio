@@ -17,7 +17,7 @@ I´m passionate about solving problems and learning. So always open to new chall
 - Node js
 
 
-Reach me out 👇
 
-[![Twitter Badge](https://twitter.com/LzaroIncioManu2?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/LzaroIncioManu2)](https://twitter.com/dieegosf) 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/l%C3%A1zaro-in%C3%A1cio-manuel-9264971b3/) 
+
+
+
